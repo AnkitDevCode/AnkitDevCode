@@ -94,6 +94,12 @@
 
 ---
 
+## 📝 Latest Blog Posts
+<!-- BLOG-START -->
+<!-- BLOG-END -->
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://dev.to/ankitdevcode" target="_blank">
