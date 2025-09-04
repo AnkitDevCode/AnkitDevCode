@@ -86,7 +86,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="[https://dev.to/ankitdevcode]"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://dev.to/ankitdevcode" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
 </p>
 
 ---
