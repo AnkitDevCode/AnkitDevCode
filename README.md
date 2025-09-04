@@ -3,8 +3,8 @@
 <h3 align="center">Backend Developer | Java | Spring Boot | Microservices | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=ankitdevcode&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ankitdevcode?tab=followers"><img src="https://img.shields.io/github/followers/ankitdevcode?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 ---
