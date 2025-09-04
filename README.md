@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning ** AI technologies, Cloud (AWS, GCP) & DevOps**  
+- 🌱 I’m currently learning **AI technologies, Cloud (AWS, GCP) & DevOps**  
 - 💻 Passionate about **Microservices, Distributed Systems & API Design**  
 - ✍️ I write articles on [Dev.to](https://dev.to/ankitdevcode)  
 - 🎯 Domains: **Payments, Open Banking, CRM**  
