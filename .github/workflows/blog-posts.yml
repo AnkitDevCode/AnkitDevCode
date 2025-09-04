@@ -2,7 +2,7 @@ name: Update README with Latest Dev.to Posts
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every hour
+    - cron: '0 8 * * *'  # Runs every dat at 8 am
   workflow_dispatch:
 
   push:
