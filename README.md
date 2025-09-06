@@ -130,7 +130,10 @@
 ## 📂 Featured Projects  
 
 🔗 [**Resume Builder**](https://ankitdevcode.github.io/resume_builder/)  
-*A static site to build Quick resumes.*  
+*A static site to build quick resumes.*  
+
+📰 [**RSS-Feed Dashboard**](https://ankitdevcode.github.io/Rss-Feed/)  
+*Your daily dose of fresh content.*  
 
 ---
 
