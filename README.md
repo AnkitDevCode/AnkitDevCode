@@ -159,7 +159,12 @@
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
+  <a href="mailto:ankitrawat741@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://dev.to/ankitdevcode" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
