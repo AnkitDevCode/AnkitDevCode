@@ -149,11 +149,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-START -->
+- [Advanced Java Data Structures and Their Best Use Cases](https://dev.to/ankitdevcode/advanced-java-data-structures-and-their-best-use-cases-hm)
 - [Spring Boot Testing: A Comprehensive Best Practices Guide](https://dev.to/ankitdevcode/spring-boot-testing-a-comprehensive-best-practices-guide-1do6)
 - [Parking Lot System Design (LLD in Action)](https://dev.to/ankitdevcode/parking-lot-system-design-lld-in-action-part-1-6f0)
 - [Transactions : Explained](https://dev.to/ankitdevcode/transactions-explained-an)
 - [Getting Started with PL/SQL Blocks and Calling Them from Spring Boot JPA](https://dev.to/ankitdevcode/getting-started-with-plsql-blocks-and-calling-them-from-spring-boot-jpa-3192)
-- [[Boost]](https://dev.to/ankitdevcode/-2m0l)
 <!-- BLOG-END -->
 
 ---
