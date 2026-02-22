@@ -17,15 +17,6 @@
 
 **Technical Lead** with a decade of experience architecting and delivering enterprise-grade solutions for **Banking** and **Telecom** industries. I transform complex business requirements into scalable, production-ready systems while building high-performing engineering teams.
 
-```java
-public class TechnicalLead {
-    private String name = "Ankit";
-    private String role = "Technical Lead & Java Architect";
-    private int experience = 10;
-    private String[] domains = {"Banking", "Telecom", "Payment Systems", "Open Banking"};
-    private String passion = "Building scalable systems & mentoring developers";
-}
-```
 
 ### 💼 What I Bring to the Table
 
